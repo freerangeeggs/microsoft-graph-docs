@@ -20,7 +20,7 @@ One of the following permissions is required to call this API. To learn more, in
 ```http
 GET /me/joinedTeams
 ```
-## Optional query parameters
+## Optional query parameters [Currently not supported]
 This method supports the [OData Query Parameters](http://developer.microsoft.com/en-us/graph/docs/overview/query_parameters) to help customize the response.
 ## Request headers
 | Header       | Value |
